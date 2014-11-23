@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatServer", "ChatProgram\ChatProgram.vcxproj", "{40C2DDED-D1D8-4EE7-91DC-0A9695FED852}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatClient", "ChatClient\ChatClient.vcxproj", "{D40FE82C-40FA-4DEB-A002-BD78EF83FD5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40C2DDED-D1D8-4EE7-91DC-0A9695FED852}.Debug|Win32.ActiveCfg = Debug|Win32
+		{40C2DDED-D1D8-4EE7-91DC-0A9695FED852}.Debug|Win32.Build.0 = Debug|Win32
+		{40C2DDED-D1D8-4EE7-91DC-0A9695FED852}.Release|Win32.ActiveCfg = Release|Win32
+		{40C2DDED-D1D8-4EE7-91DC-0A9695FED852}.Release|Win32.Build.0 = Release|Win32
+		{D40FE82C-40FA-4DEB-A002-BD78EF83FD5B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D40FE82C-40FA-4DEB-A002-BD78EF83FD5B}.Debug|Win32.Build.0 = Debug|Win32
+		{D40FE82C-40FA-4DEB-A002-BD78EF83FD5B}.Release|Win32.ActiveCfg = Release|Win32
+		{D40FE82C-40FA-4DEB-A002-BD78EF83FD5B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
